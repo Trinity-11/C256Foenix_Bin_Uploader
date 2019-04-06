@@ -1,0 +1,15 @@
+C:\Users\StefanyPC\Documents\Visual Studio 2017\Projects\C256Foenix_Debugger\C256Foenix_Debugger\bin\Debug\C256Foenix_Debugger.exe.config
+C:\Users\StefanyPC\Documents\Visual Studio 2017\Projects\C256Foenix_Debugger\C256Foenix_Debugger\bin\Debug\C256Foenix_Debugger.exe
+C:\Users\StefanyPC\Documents\Visual Studio 2017\Projects\C256Foenix_Debugger\C256Foenix_Debugger\bin\Debug\C256Foenix_Debugger.pdb
+C:\Users\StefanyPC\Documents\Visual Studio 2017\Projects\C256Foenix_Debugger\C256Foenix_Debugger\obj\Debug\C256Foenix_Debugger.csprojAssemblyReference.cache
+C:\Users\StefanyPC\Documents\Visual Studio 2017\Projects\C256Foenix_Debugger\C256Foenix_Debugger\obj\Debug\MainWindow.g.cs
+C:\Users\StefanyPC\Documents\Visual Studio 2017\Projects\C256Foenix_Debugger\C256Foenix_Debugger\obj\Debug\App.g.cs
+C:\Users\StefanyPC\Documents\Visual Studio 2017\Projects\C256Foenix_Debugger\C256Foenix_Debugger\obj\Debug\C256Foenix_Debugger_MarkupCompile.cache
+C:\Users\StefanyPC\Documents\Visual Studio 2017\Projects\C256Foenix_Debugger\C256Foenix_Debugger\obj\Debug\C256Foenix_Debugger_MarkupCompile.lref
+C:\Users\StefanyPC\Documents\Visual Studio 2017\Projects\C256Foenix_Debugger\C256Foenix_Debugger\obj\Debug\MainWindow.baml
+C:\Users\StefanyPC\Documents\Visual Studio 2017\Projects\C256Foenix_Debugger\C256Foenix_Debugger\obj\Debug\C256Foenix_Debugger.g.resources
+C:\Users\StefanyPC\Documents\Visual Studio 2017\Projects\C256Foenix_Debugger\C256Foenix_Debugger\obj\Debug\C256Foenix_Debugger.Properties.Resources.resources
+C:\Users\StefanyPC\Documents\Visual Studio 2017\Projects\C256Foenix_Debugger\C256Foenix_Debugger\obj\Debug\C256Foenix_Debugger.csproj.GenerateResource.cache
+C:\Users\StefanyPC\Documents\Visual Studio 2017\Projects\C256Foenix_Debugger\C256Foenix_Debugger\obj\Debug\C256Foenix_Debugger.csproj.CoreCompileInputs.cache
+C:\Users\StefanyPC\Documents\Visual Studio 2017\Projects\C256Foenix_Debugger\C256Foenix_Debugger\obj\Debug\C256Foenix_Debugger.exe
+C:\Users\StefanyPC\Documents\Visual Studio 2017\Projects\C256Foenix_Debugger\C256Foenix_Debugger\obj\Debug\C256Foenix_Debugger.pdb
